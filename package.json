@@ -1,0 +1,19 @@
+{
+  "name": "os-guardian",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build" },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "recharts": "latest",
+    "@xyflow/react": "latest"
+  },
+  "devDependencies": {"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest"}
+}
